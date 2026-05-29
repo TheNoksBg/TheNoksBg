@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# Here i i will gathering all of my future projects and the ones that i have already completed.
+## Here i will gathering all of my future projects and the ones that i have already completed.
 
 <!--
 **TheNoksBg/TheNoksBg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
