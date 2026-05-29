@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## Here i will gathering all of my future projects and the ones that i have already completed.
 
 <!--
